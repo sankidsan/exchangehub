@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/exchangehub/static/css/main.781917a1.css",
+    "main.js": "/exchangehub/static/js/main.6dd9cd7a.js",
+    "static/media/logo.png": "/exchangehub/static/media/logo.000cdc7a05e621622d3a.png",
+    "index.html": "/exchangehub/index.html",
+    "main.781917a1.css.map": "/exchangehub/static/css/main.781917a1.css.map",
+    "main.6dd9cd7a.js.map": "/exchangehub/static/js/main.6dd9cd7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781917a1.css",
+    "static/js/main.6dd9cd7a.js"
+  ]
+}
